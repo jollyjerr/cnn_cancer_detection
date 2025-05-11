@@ -8,5 +8,8 @@ https://www.kaggle.com/c/histopathologic-cancer-detection/overview
 python -m venv venv
 source ./venv/bin/activate
 pip install -r requirements.txt
+kaggle competitions download -c histopathologic-cancer-detection
+unzip histopathologic-cancer-detection.zip
+rm histopathologic-cancer-detection.zip
 jupyter notebook
 ```

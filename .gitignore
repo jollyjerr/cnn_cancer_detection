@@ -1,4 +1,8 @@
+.DS_Store
 .ipynb_checkpoints/*
 venv/*
 
-.DS_Store
+test/*
+train/*
+train_labels.csv
+sample_submission.csv
