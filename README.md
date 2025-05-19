@@ -13,3 +13,15 @@ unzip histopathologic-cancer-detection.zip
 rm histopathologic-cancer-detection.zip
 jupyter notebook
 ```
+
+having issues with pip env across machines
+
+```
+pip install tensorflow
+pip install notebook
+pip install jupyter-black
+pip install matplotlib
+pip install keras-tuner
+pip install opencv-python
+pip install pandas
+```
